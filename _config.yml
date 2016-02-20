@@ -2,6 +2,7 @@ name: dnaiq
 favicon: null
 layout_spectrum: 0.7545296766329557
 typography_spectrum: 0.5526240412145853
+title: 'dna to data '
 cta:
   domain: null
   bucket: null
